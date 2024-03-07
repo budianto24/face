@@ -115,7 +115,7 @@ body {
         font-size: 1.5rem;
     }
 
-    .face:nth-child(even) {
-        display: none;
+    .face-hidden {
+        display: none !important;
     }
 }
